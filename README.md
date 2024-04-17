@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Ollie, a Full-stack Software Developer at [EU Automation](https://www.euautomation.com).
+I'm Ollie, a Lead Full-stack Software Developer at [Detertech](https://detertech.com).
 
 ## Skills
 
